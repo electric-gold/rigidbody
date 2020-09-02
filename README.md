@@ -1,3 +1,3 @@
 # rigidbody 🏃‍
-## Testing Rigidbody physics with Electric Gold
+### Testing Rigidbody physics with Electric Gold
 ___
